@@ -1,0 +1,1 @@
+Simpan screenshot asli dari HP Expo Go di folder ini dengan nama mytasklist.jpg.
